@@ -1,2 +1,2 @@
-# 530794
+# my-notebooks-repo
 RedHatTraining
